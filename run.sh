@@ -1,4 +1,4 @@
 #!/bin/bash
 
-gcc hello.c -o hello
+gcc src/hello.c -o hello
 ./hello
